@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "photo": "https://randomuser.me/api/portraits/men/1.jpg",
+    "description": "Software Engineer specializing in backend development.",
+    "address": "1600 Amphitheatre Parkway, Mountain View, CA",
+    "contact": { "email": "john.doe@example.com", "phone": "+1-555-0123" },
+    "location": { "latitude": 37.4221, "longitude": -122.0841 }
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "photo": "https://randomuser.me/api/portraits/women/2.jpg",
+    "description": "Digital Marketing Specialist with content strategy expertise.",
+    "address": "350 Fifth Avenue, New York, NY",
+    "contact": { "email": "jane.smith@example.com", "phone": "+1-555-0456" },
+    "location": { "latitude": 40.748817, "longitude": -73.985428 }
+  },
+  {
+    "id": 3,
+    "name": "Emily Johnson",
+    "photo": "https://randomuser.me/api/portraits/women/3.jpg",
+    "description": "UX/UI Designer focusing on user-centric applications.",
+    "address": "1 Infinite Loop, Cupertino, CA",
+    "contact": { "email": "emily.johnson@example.com", "phone": "+1-555-0678" },
+    "location": { "latitude": 37.3317, "longitude": -122.0301 }
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "photo": "https://randomuser.me/api/portraits/men/4.jpg",
+    "description": "Data Scientist specializing in predictive modeling.",
+    "address": "221B Baker Street, London, UK",
+    "contact": { "email": "michael.brown@example.com", "phone": "+44-20-1234-5678" },
+    "location": { "latitude": 51.5238, "longitude": -0.1586 }
+  },
+  {
+    "id": 5,
+    "name": "Sophia Wilson",
+    "photo": "https://randomuser.me/api/portraits/women/5.jpg",
+    "description": "AI Researcher focused on natural language processing.",
+    "address": "10 Downing Street, London, UK",
+    "contact": { "email": "sophia.wilson@example.com", "phone": "+44-20-9876-5432" },
+    "location": { "latitude": 51.5034, "longitude": -0.1276 }
+  },
+  {
+    "id": 6,
+    "name": "Daniel Martinez",
+    "photo": "https://randomuser.me/api/portraits/men/6.jpg",
+    "description": "Mobile App Developer with expertise in iOS apps.",
+    "address": "4 Privet Drive, Little Whinging, UK",
+    "contact": { "email": "daniel.martinez@example.com", "phone": "+44-20-7654-3210" },
+    "location": { "latitude": 51.3126, "longitude": -0.0865 }
+  },
+  {
+    "id": 7,
+    "name": "Olivia Davis",
+    "photo": "https://randomuser.me/api/portraits/women/7.jpg",
+    "description": "Graphic Designer specializing in branding and identity.",
+    "address": "742 Evergreen Terrace, Springfield, USA",
+    "contact": { "email": "olivia.davis@example.com", "phone": "+1-555-0987" },
+    "location": { "latitude": 39.7817, "longitude": -89.6501 }
+  },
+  {
+    "id": 8,
+    "name": "David Garcia",
+    "photo": "https://randomuser.me/api/portraits/men/8.jpg",
+    "description": "Frontend Developer with expertise in modern web technologies.",
+    "address": "12 Grimmauld Place, London, UK",
+    "contact": { "email": "david.garcia@example.com", "phone": "+44-20-1111-2222" },
+    "location": { "latitude": 51.5287, "longitude": -0.2425 }
+  },
+  {
+    "id": 9,
+    "name": "Isabella Rodriguez",
+    "photo": "https://randomuser.me/api/portraits/women/9.jpg",
+    "description": "Product Manager experienced in agile methodologies.",
+    "address": "221B Main Street, Anytown, USA",
+    "contact": { "email": "isabella.rodriguez@example.com", "phone": "+1-555-3344" },
+    "location": { "latitude": 34.0522, "longitude": -118.2437 }
+  },
+  {
+    "id": 10,
+    "name": "James Anderson",
+    "photo": "https://randomuser.me/api/portraits/men/10.jpg",
+    "description": "Full Stack Developer working on scalable platforms.",
+    "address": "123 Maple Street, Metropolis, USA",
+    "contact": { "email": "james.anderson@example.com", "phone": "+1-555-1234" },
+    "location": { "latitude": 40.7128, "longitude": -74.0060 }
+  },
+  {
+    "id": 11,
+    "name": "Ava Lopez",
+    "photo": "https://randomuser.me/api/portraits/women/11.jpg",
+    "description": "Machine Learning Engineer building AI models.",
+    "address": "88 Data Drive, San Francisco, USA",
+    "contact": { "email": "ava.lopez@example.com", "phone": "+1-555-5555" },
+    "location": { "latitude": 37.7749, "longitude": -122.4194 }
+  },
+  {
+    "id": 12,
+    "name": "William Harris",
+    "photo": "https://randomuser.me/api/portraits/men/12.jpg",
+    "description": "Blockchain Developer specializing in smart contracts.",
+    "address": "1 Chain Street, Austin, USA",
+    "contact": { "email": "william.harris@example.com", "phone": "+1-555-6666" },
+    "location": { "latitude": 30.2672, "longitude": -97.7431 }
+  },
+  {
+    "id": 13,
+    "name": "Mia Gonzalez",
+    "photo": "https://randomuser.me/api/portraits/women/13.jpg",
+    "description": "Digital Artist passionate about 3D modeling.",
+    "address": "45 Art Lane, Miami, USA",
+    "contact": { "email": "mia.gonzalez@example.com", "phone": "+1-555-7777" },
+    "location": { "latitude": 25.7617, "longitude": -80.1918 }
+  } 
+]
